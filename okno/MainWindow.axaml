@@ -8,5 +8,5 @@
         Width="500"
         Height="300"
         WindowStartupLocation="CenterScreen">
-    Welcome to Avalonia!
+    Witaj w moim pierwszym oknie!
 </Window>
